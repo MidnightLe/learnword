@@ -6,7 +6,8 @@ https://github.com/MidnightLe/learnword.git
 git init 创建
 git add .
 git commit -m "beizhu"
-
+远程仓库：
+github创建仓库。。。。不要勾选README.MD
 
 绑定远程仓库：
 git remote add origin https://github.com/MidnightLe/learnword.git
