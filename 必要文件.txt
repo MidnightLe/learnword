@@ -1,0 +1,3 @@
+https://github.com/MidnightLe/learnword.git
+
+测试是否畅通，和文件乱码问题。
