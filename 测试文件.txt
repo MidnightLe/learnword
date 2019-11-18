@@ -1,0 +1,22 @@
+https://github.com/MidnightLe/learnword.git
+
+测试是否畅通，和文件乱码问题。
+
+本地：
+git init 创建
+git add .
+git commit -m "beizhu"
+
+
+绑定远程仓库：
+git remote add origin https://github.com/MidnightLe/learnword.git
+第一次推送到远程仓库：
+git push -u origin master
+
+
+
+以后的命令就是：
+git add .
+git commit -m "beizhu "
+git remote add origin https://github.com/MidnightLe/learnword.git
+git push origin master
