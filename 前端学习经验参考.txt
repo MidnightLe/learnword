@@ -1,6 +1,8 @@
 es6 webpack 和nodejs 
 原生做壳，其他html5来实现，（hybird）
+##############################################################
 html-css-js-es6-npm-vue-项目  然后是webpack，http协议，前端性能优化，
+##############################################################
 nwjs，vuido，electron pc端都可以关注下
 
 javascript权威指南，javascript高级程序设计，ecmascript6入门，三本书
@@ -8,6 +10,9 @@ javascript权威指南，javascript高级程序设计，ecmascript6入门，三�
 学习web前端后能干什么
 开发网页，h5动画，手机端app，做自己的博客，做微信公众号开发，开发小程序，结合nwjs做电脑客户端软件：比如微信的pc版本，钉钉pc版本
 
+##############################################################
+html css  js  jquery bootstrap html5 css3 vue   一两个项目
+##############################################################
 1.html 掌握基本的html标签，并能简单的展示
 2.css 学会怎么去简单的布局，简单上色，然后是稍微复杂的布局，比如：浮动，定位，一定要弄清楚
 3.js基础 学习怎么去运行简单的js功能，学会变量，函数，逻辑块，学会封装，扩大知识面学习js很多对象的内置函数，学习proto
@@ -17,6 +22,9 @@ javascript权威指南，javascript高级程序设计，ecmascript6入门，三�
 7.vue学习，这时候基本可以做项目了，选择一个mvc框架来学习，angular，react，vue都可以，建议vue，入门简单，国内流行，顺带webpack也学习了
 8.这样完成一两个项目之后，就成了初级前端工程师
 
+##############################################################
+webstorm，html，css，js，纯js操作dom和jquery ，bootstrap，css3，深入js，vue全家桶，nodejs升级
+##############################################################
 
 学习大纲：
 1.一个开发工具，webstorm，hbuilder，vscodde，sublime都行
@@ -37,7 +45,9 @@ javascript权威指南，javascript高级程序设计，ecmascript6入门，三�
 vue react angular2选一种，我建议从vue开始，react的jsx语法不适合入门，angular2的typescript语法糖难度也比较高，vue学起来平滑，结合vue，学一下vue-router,vuex,element ui axios,webpack做项目玩一下这个全家桶
 10.升级后台语言nodejs
 这个不做要求，你在学vue的时候，其实已经在用nodejs了，你用的npm就是nodejs的一部分，这个阶段说的是nodejs编程，比较难理解，毕竟是写服务器的东西，不过前面基础打牢古，让别人一点拨，就能上手技术不难，难在思路转换
-
+##############################################################
+一星期html，css。js和dom，jquery，php，bootstrap，webapp中phonegap和ionic ，nodejs，
+##############################################################
 
 第二个人的学习路程：
 1.自学web阶段，是通过淘宝买的学习视频，也是某些上市公司的学习视频以及腾讯课堂，30元
