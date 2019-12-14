@@ -1,0 +1,14 @@
+【2014-9-12】每天进步一点点(试运行)
+
+one of the first computerlike devices was developed in germany by konrad zuse in 1941 called the z3 it was general-purpose,
+stored-program machine with many electronic parts ,but it had a mechanical memory
+,another electromechanical computing machine was developed by howard aiken with financial assistance fron
+ibm at harvard university in 1943 .it was called the automatic sequence control calculator mark ibm,or simply the harvard mark i ,
+neither of these machines was a true computer, however,because they were not entirely electronic.
+
+konrad zuse于1941年在德国开发了第一批类似计算机的设备，称为z3，它是通用的，
+具有许多电子零件的存储程序机器，但是具有机械存储器
+，霍华德·艾肯在经济援助下开发了另一台机电计算机
+1943年在哈佛大学的ibm。它被称为自动顺序控制计算器标记ibm，或简称为哈佛标记i，
+这些机器都不是真正的计算机，因为它们不是完全电子的。
+
