@@ -3,6 +3,18 @@
 ### 2. 在安卓手机上，用pocket git 下载
 ### 3. 然后用QQ阅读，翻阅。   
 ---
-### 以下2个文件可以忽略  
-###### auto_commit_script.py  是自动提交的python小脚本，一键化提交。
-###### testfile.txt           是一些git操作命令
+# 目录结构 
+
+## MD语法简单版和预览图
++       总结的MD语法
+## 前端资料
++       找来的资料
+## 英语学习第一期
++       本项目最重要的，用来提升英语词汇量的！！！
+## gitignore
++       忽略文件配置
+## auto_commit_script.py 
++       是自动提交的python小脚本，一键化提交。
+## testfile.txt
++       是一些git操作命令
+
