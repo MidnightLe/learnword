@@ -1,4 +1,68 @@
-第一章
+第一章   【2014-9-12】每天进步一点点(试运行)
 
 
-one of the 
+one of the computerlike devices was developed in Germany by Konrad Zuse in 1941.
+
+called the z3,it was general-purpose,stored-program machine with many electronic parts,but it had a mechanical memory.
+
+another electromechanical com-puting machine was developed by howard aiken,with financial assistance from ibm,at harvard university in 1943.
+
+it was called the automatic sequence control calculator mark i ,or simply the harvard mark i .
+
+neither of these machines was a true computer ,however,because they were not entirely electronic.
+
+
+
+
+第二章 【2014-9-13】每天进步一点点(试运行)
+
+
+perhaps the most influential of the early computerlike devices was the electronic numerical integrator and computer,or ENIAC.
+
+it was developed by j.presper eckert and john mauchly  at the university of pennsylvania.
+
+the project began in 1943 and was completed in 1946.
+
+the machine was huge 
+
+it weighed 30 tons and contained over 18,000 vacuum tubes.
+
+
+第三章 【2014-9-16】每天进步一点点(试运行)
+
+
+the ENIAC was a major advancement for its time.
+
+it was the first general-purpose, electronic computing machine and was capable of performing thousands of operations per second.
+
+it was controlled, however ,by switches and plugs that had to be manually set.
+
+thus,although it was a  general-purpose electronic device,it didi not have a stored program.
+
+therefore, it  did not have all the characteristics of a computer.
+
+第四章 【2014-9-17】每天进步一点点(试运行)
+
+
+while working o the ENIAC, eckert and mauchly were joined by a brilliant mathe-matician,john von neuman.
+
+together,they developed the idea of a stored program computer .
+
+this machine,called the electronic discrete variable automatic computer, or EDVAC, was the first machine whose design included all the characteristics of a computer .
+
+it  was not completed ,however ,until 1951.
+
+
+
+
+第五章 【2014-9-18】每天进步一点点(试运行)
+
+
+before the EDVAC  was finished,several other machines were built that incorporated elements of the EDVAC design of eckert ,mauchly ,and von neuman.
+
+one was the electronic delay storage automatic computer, or EDSAC ,which was developed in cambridge,england .
+
+
+it first operated in may of 1949 and is probably the world's first electronic stored-program,general-purpose computer to become operational.
+
+the first computer to operate in the united states was the  binary automatic computer,or BINAC,which became operational in august of 1949.
