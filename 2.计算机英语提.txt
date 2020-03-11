@@ -1,0 +1,94 @@
+第一章 【2014-9-26】每天进步一点点
+
+at the same time that hardware was evolving,software was developing.
+同时，硬件在进化,软件也在发展。
+the first computers were programmed in machine language,but during the first computer generation, the idea of programming language translation and high-level languages occurred.
+第一部计算机用机器语言编程，但是在第一代计算机期间，程序语言翻译的概念和高级语言出现了。
+much of the credit for these ideas goes to grace hopper, who,as a navy lieutenant in 1945,learned to program the harvard mark i.
+这些主意大部分归功于Grace Hopper,她在1954年是一名海军上尉，学习为哈佛Mark I计算机编程。
+in 1952,she developed the first programming language translator ,followed by others in later years.
+在1952年，她开发了第一种编程语言翻译器,在稍后的数年内为其他人所效仿。
+she also developed a language called flow-matic in 1957,which formed the basis for cobol,the most commonly used business programming language today.
+她还在1957年开发了一种称为Flow-matic的语言,为COBOL——今天最广泛应用的商业编程语言——奠定了基础。
+
+第二章  【2014-9-29】每天进步一点点 
+
+
+other software developments during the first computer generation include the design of the fortran programming language in 1957.
+在第一代计算机期间, 软件方面的其他的进展包括1957年FORTRAN语言的设计。
+this language became the first widely used high-level language .
+这种语言成为第一种广泛使用的高级语言。
+also ,the first simple operating systems became available with first-generation computers .
+同时, 第一个简单的操作系统随着第一代计算机而出现。
+
+第三章 【2014-9-30】每天进步一点点
+
+
+in the second generation of computers,transistors replaced vacuum tubes.
+在第二代计算机中，晶体管取代了真空管。
+although invented in 1948,the first all-transistor computer did not become available until 1959.
+虽然发明于1948年,但第一台全晶体管计算机直到1959年才成为现实。
+transistors are smaller and less expensive than vacuum tubes ,and they operate faster and produce less heat.
+晶体管比真空管体积小、价格低，而且运行快而发热少。
+hence ,with second-generation computers ,the size and cost of computers decreased,their speed increased, and their air-com-ditioning needs were reduced.
+因此，随着第二代计算机的出现，计算机的体积和成本降低、速度提高，且它们对空调的需要减少。
+
+
+第四章 【2014-10-8】每天进步一点点
+
+
+many companies that had not previously sold computer entered the industry with the second generation.
+许多先前不经销计算机的公司随着第二代计算机的出现进入计算机行业，
+one of these companies that still makes computers  is control data corporatin (cdc).
+其中今天仍然制造计算机的公司之一是控制数据公司(CDC),
+they were noted for making high-speed computers for scientific work.
+他们以制造用于科学工作的高速计算机而著名。
+
+第五章 【2014-10-9】每天进步一点点
+
+remintong rand ,now called sperr-rand corporation,made several second-generation univac computers .
+雷明顿·兰德（Remington rand，现称为Sperry-rand Corporation）制造了几台第二代univac计算机。
+ibm,however,continued to dominate the industry.
+但是，ibm继续主导该行业。
+one of the most popular second-generation computers was the ibm 1401,which was a medium-sized computer used by many businesses.
+ibm 1401是最受欢迎的第二代计算机之一，它是许多企业使用的中型计算机。
+
+
+
+
+第六章 【2014-10-13】每天进步一点点
+
+software also continued to develop during this time .
+在此期间软件也在继续发展。
+many new programming  languages were designed,including cobol in 1960.
+许多新的编程语言被发明,包括1960年发明的COBOL。
+more and more businesses and organizations were beginning to use computers for their data processing needs.
+越来越多的企业和组织开始使用计算机以满足他们的数据处理需要。
+
+第七章 【2014-10-15】每天进步一点点 
+
+the technical development that marks the third generation of computers is the use of integrated circuits or ics in computers.
+作为第三代计算机标志的技术发展是在计算机中使用集成电路或简称IC。
+an integrated circuit is a  piece of silicon (a chip) containing numerous transistors.
+一个集成电路就是包含许多晶体管的一个硅片(芯片)。
+one ic replaces many transistors in a computer ,result in  a  continuation of the trends begun in the second generation .
+一个集成电路代替了计算机中的许多晶体管，导致了始于第二代的一些趋势的继续。
+these trends include reduced size ,reduced cost , increased speed ,and reduced need for air conditioning .
+这些趋势包括计算机体积减小、成本降低、速度提高和对空调的需要减少。
+
+
+第八章 【2014-10-16】每天进步一点点 
+
+
+although integrated circuits were invented in 1958, the first computers to make extensive use of them were  not available until 1964.
+
+in that year,ibm introduced a line of mainframe computers called the system/360.
+
+the computers in this line became the most widely used third-generation machines .
+
+there were many models in  the system/360 line ,ranging from small,relatively slow ,and inexpensive ones,to large ,very fast ,and costly models 
+
+all models ,however,were compatible so that programs written for one  model could be used on another.
+
+this feature of compatibility across many computers in a line was adopted by other manufacturers of third-generation computers.
+

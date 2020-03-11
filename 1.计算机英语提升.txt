@@ -65,3 +65,63 @@ it first operated in may of 1949 and is probably the world's first electronic st
 它在1949年5月首次运行，它可能是世界的第一台电子储存程序、通用型计算机投入运行。
 the first computer to operate in the united states was the  binary automatic computer,or BINAC,which became operational in august of 1949.
 在美国运行的第一部计算机是二进制自动计算机,或简称BINAC,它在1949年8月投入运行。
+
+
+
+第六章 【2014-9-19】每天进步一点点 
+
+like other computing pioneers before them, eckert and mauchly formed a company in 1947 to develop  a  commercial computer.
+像他们之前的其他计算机先驱一样,Eckert和Mauchly在1947年组成了一家公司开发商业计算机。
+the company was called the eckert-mauchly computer corporation.
+公司名叫Eckert-Mauchly计算机公司。
+their objective was to design and build the universal automatic computer or univac.
+他们的目标是设计并建造通用自动计算机或UNIVAC。
+because of difficulties of getting financial support ,they had to sell the company to remington rand in 1950.
+因为难以获得财政支持，他们不得不在1950年把公司卖给了Remington Rand公司。
+eckert and mauchly continued to work on the univac at remington rand and completed it in 1951.
+Eckert 和Mauchly继续在Remington Rand公司从事UNIVAC的研制工作，并在1951年取得成功。
+known as the univac i , this machine was the first commercially avaiable computer.
+众所周知的UNIVAC I机器是世界上第一部商业化计算机。
+
+
+
+第七章  【2014-9-22】每天进步一点点 
+
+the first univac i was delivered to the census bureau and used for the 1950 census.
+第一台UNIVAC I被交付人口普查局用于1950年的人口普查。
+the second univac i was used to predict that dwight eisenhower would win the 1952 presidential election,less than an hour after the polls closed.
+在投票点关闭后1小时之内，第二台UNIVAC I 被用于预测D.艾森豪威尔会赢得1952年总统大选。
+the univac i began the modern of computer use .
+UNIVAC I开始了现代计算机的应用。
+
+
+第八章  【2014-9-23】每天进步一点点
+
+first-generation computers were cahracterized by the  use of vacuum tubes as their principal electronic component.
+第一代计算机的特色是使用真空管为其主要电子器件。
+vacuum tubes are bulky and produce a lot of heat ,so  first-generation computers were large and required extensive air conditioning to keep them cool.
+真空管体积大且发热严重,因此第一代计算机体积庞大，并且需要大量的空调设备保持冷却。
+in addition ,because vacuum tubes do not operate very fast,these computers were relatively slow .
+此外, 因为真空管运行不是很快，这些计算机运行速度相对较慢。
+
+
+
+第九章 【2014-9-24】每天进步一点点
+
+the nuivac i was the first commercial computer in this generation .
+UNIVAC I是第一代中最早的商业化计算机。
+as noted earlier ,it was used in the census bureau in 1951.
+如前所述，它在1951年被用于人口普查局。
+it was  also the first computer to be  used  in a business application .
+它还是第一部用于商业应用的计算机。
+in 1954,general electric took delivery of a univac i and used it for some of its business data processing.
+在1954年,通用电气接收了UNIVAC I,并用它进行一些商业数据处理。
+
+第十章 【2014-9-25】每天进步一点点
+
+the univac i was not the most popular first-generation computer, however this honor goes to the IBM 650.
+然而,UNIVAC I并不是最流行的第一代计算机。这一荣誉属于IBM 650。
+it  was first delivered in 1955 before remington rand could come out with  a  successor to  the univac i
+它在Remington Rand能够造出UNIVAC I的后续产品之前的1955年首次交付使用。
+with the ibm 650,ibm captured the  majority of the computer market , a position it  still holds today.
+凭借IBM 650,IBM占有了大半计算机市场，它在今天仍然保持这一位置。
